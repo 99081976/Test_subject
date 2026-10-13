@@ -24,3 +24,5 @@ if __name__ == "__main__":
     print(f"90 graden en straal = 2 : (oppervlak_cirkel_sector(90, 3):.2f) cm2")
     
     print("-- Einde test --")
+    
+    test
